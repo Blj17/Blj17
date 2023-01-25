@@ -16,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/balaji v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balaji v" height="30" width="40" /></a>
-<a href="https://instagram.com/blj_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blj_07" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/balaji v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="balaji v" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/balaji-v-4b55751ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balaji v" height="30" width="40" /></a>
+<a href="https://instagram.com/blj__07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blj_07" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/balajiaero17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="balaji v" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
